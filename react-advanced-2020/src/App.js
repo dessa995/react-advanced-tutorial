@@ -1,5 +1,5 @@
 import React from "react";
-import Setup from "./tutorial/2-useEffect/setup/1-useEffect-basics";
+import Setup from "./tutorial/4-forms/setup/1-controlled-inputs";
 
 function App() {
   return (
